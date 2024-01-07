@@ -1,6 +1,6 @@
 export const PORT = 5555;
 
 export const mongoDBURL = 
-'mongodb+srv://root:beepbop@book-store-mern.3jcgdi9.mongodb.net/?retryWrites=true&w=majority';
+  //Go to MongoDB to create a database and use that here;
 
 //creating free database
